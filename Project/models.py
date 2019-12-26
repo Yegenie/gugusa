@@ -12,5 +12,3 @@ class Project(models.Model):
         default=1,
         on_delete=models.CASCADE
     )
-
-# Create your models here.
